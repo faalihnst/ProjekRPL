@@ -1,0 +1,1 @@
+Lutuna Taniku adalah sebuah e-commerce berbasis web yang menggunakan framework Laravel dalam pengembangannya, tujuan utama dari web ini adalah untuk memudahkan jual-beli hasil tani oleh para petani langsung tanpa melalui calo-calo nakal sehingga dapat meningkatkan kesejahteraan para petani
